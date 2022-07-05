@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/psvincent/social-network-api#readme",
   "dependencies": {
-    "express": "^4.18.1",
-    "moment": "^2.29.3",
-    "mongoose": "^6.4.2"
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "mongoose": "^6.0.13"
   }
 }
